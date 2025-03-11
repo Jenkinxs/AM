@@ -20,8 +20,8 @@ I do not know how to fix this issue, as it is a direct "wall" put up by YouTube 
 
 Important: Make sure you have adequate space for the bot to function!
 
-=====================================================================================================
 
+=================================================================
 
 Installation Instructions:
 
@@ -47,7 +47,7 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 4.1) (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AtomicMusicBot.py" (without quotes)
 
 
-=====================================================================================================
+=================================================================
 
 
 Closing Statement:
