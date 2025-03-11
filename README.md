@@ -33,6 +33,7 @@ IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 
 
 FOR WINDOWS BASED MACHINES:
+0) Download the AtomicMusicBot.zip file from GitHub
 1) Extract the AtomicMusicBot folder from the downloaded zip file.
 2) Install Python3 (Make sure to add it to PATH when installing!), and FFMPEG. - Links will be provided in the Dependencies.txt file.
 3) Open the InstallRequirements.exe" file in the folder to install necessary libraries.
@@ -40,6 +41,7 @@ FOR WINDOWS BASED MACHINES:
 
 
 FOR LINUX/MAC/UNIX BASED MACHINES:
+0) Download the AtomicMusicBot.zip file from GitHub
 1) Extract the AtomicMusicBot folder from the downloaded zip file.
 2) Through the Terminal, CD to the AtomicMusicBot folder.
 3) Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the Bot's dependencies.
