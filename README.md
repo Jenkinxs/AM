@@ -1,4 +1,6 @@
 
+ATOMIC MUSIC BOT FOR DISCORD UNDER DISCORD.py
+
 This is a Python based music bot that works exclusively with YouTube. 
 
 It functions by downloading the video as a .webm file to it's folder,
