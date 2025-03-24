@@ -1,5 +1,5 @@
 
-ATOMIC MUSIC BOT FOR DISCORD UNDER DISCORD.py
+The AtomicMusicBot for Discord through discord.py
 
 
 
