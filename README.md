@@ -67,3 +67,5 @@ Credit for usage of these goes back to their respective owners.
 
 As of 3/11/2025, "Atomic Incorporated" does not exist (at least under me). There are no copyright holders. I do not have a copyright on this program.
 The name is for visuals exclusively.
+
+https://atomiccorp.org/
