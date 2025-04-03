@@ -11,11 +11,10 @@ Once playback has ended, been stopped, skipped, or when the bot shuts down, the 
 
 It does NOT directly interact with the YouTube video stream. 
 
-Because of this, I can not guarantee it will work on your computer, or your internet connection. For example, the bot worked on my computer,
-but not my friend's. Same code, same everything.
+Because of this, I can not guarantee it will work on your computer, or your internet connection. 
 
 You will know if it works or not by looking at your Terminal. If you see an HTTP error (probably 403), it means that it unfortunately does not.
-I do not know how to fix this issue, as it is a direct "wall" put up by YouTube themselves. If you are able to fix this, please let me know.
+I do not know how to fix this issue, as it is a direct "wall" put up by YouTube themselves. If you are able to fix this, please let me know. (UPDATE as of v2.0.0: The 403 error might have been fixed via IP spoofing)
 
 
 Important: Make sure you have adequate space for the bot to function!
