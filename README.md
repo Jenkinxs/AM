@@ -15,6 +15,7 @@ Because of this, I can not guarantee it will work on your computer, or your inte
 
 
 You will know if the bot works on your computer or not by looking at your Terminal/Console. If you see an HTTP error (probably 403), it likely means that it unfortunately does not.
+
 (UPDATE as of v2.0.0: The 403 error should be fixed). If it still occurs, I am most likely unable to fix it as it is caused by a direct "wall" put up by YouTube themselves, and varies depending on which machine the bot runs on.
 
 
