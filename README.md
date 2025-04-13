@@ -53,6 +53,12 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 
 =================================================================
 
+Troubleshooting:
+
+1) The bot doesn't play anymore! --> Update the packages that are specified in "requirements.txt" and update the dependencies OR wait for an updated version of the bot, re-install the bot and it's dependencies, and try again.
+
+=================================================================
+
 
 Closing Statement:
 
