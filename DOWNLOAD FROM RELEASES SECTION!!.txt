@@ -1,0 +1,3 @@
+==================ATOMIC DISCORD BOT - Atomic Incorporated (C) 2025==================
+
+The most recent build of AtomicMusicBot will ALWAYS be published in the releases section on GitHub.
