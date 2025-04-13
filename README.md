@@ -5,16 +5,17 @@ The AtomicMusicBot for Discord through discord.py
 
 This is a Python based music bot that works exclusively with YouTube. 
 
+
 It functions by downloading the video as a .webm file to it's folder,
-and then plays that .webm file through the voice channel. The file is JUST audio, no video. 
-Once playback has ended, been stopped, skipped, or when the bot shuts down, the .webm file will be deleted. 
+and then plays that .webm file through a voice channel. The file is downloaded contains JUST audio, no video. 
 
-It does NOT directly interact with the YouTube video stream. 
 
+Once playback has ended, been stopped, skipped, or when the bot shuts down, the .webm file will be deleted. It does NOT directly interact with the YouTube video stream. 
 Because of this, I can not guarantee it will work on your computer, or your internet connection. 
 
-You will know if it works or not by looking at your Terminal. If you see an HTTP error (probably 403), it means that it unfortunately does not.
-I do not know how to fix this issue, as it is a direct "wall" put up by YouTube themselves. If you are able to fix this, please let me know. (UPDATE as of v2.0.0: The 403 error might have been fixed via IP spoofing)
+
+You will know if the bot works on your computer or not by looking at your Terminal/Console. If you see an HTTP error (probably 403), it likely means that it unfortunately does not.
+(UPDATE as of v2.0.0: The 403 error should be fixed). If it still occurs, I am most likely unable to fix it as it is caused by a direct "wall" put up by YouTube themselves, and varies depending on which machine the bot runs on.
 
 
 Important: Make sure you have adequate space for the bot to function!
