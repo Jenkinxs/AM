@@ -3,7 +3,7 @@ The AtomicMusicBot for Discord through discord.py
 
 
 
-This is a Python based music bot that works exclusively with YouTube. 
+This is a Python based music bot that works exclusively with YouTube, and is designed to be a seamless, easy to install process for Windows, Mac, Linux, or other UNIX based computers.
 
 
 It functions by downloading the video as a .webm file to it's folder,
