@@ -1,4 +1,5 @@
 The AtomicMusicBot for Discord through discord.py
+================================================
 
 
 This is a Python based music bot that works exclusively with YouTube. The bot's installation process is designed to be seamless and easy to install for Windows, Mac, Linux, or other UNIX based computers.
@@ -13,15 +14,14 @@ You will know if the bot works on your computer or not by looking at your Termin
 
 Important: Make sure you have adequate space for the bot to function!
 
-=================================================================
 
 Installation Instructions:
+==========================
 
 Before starting, create a discord bot, set up its permissions as Admin, and get it's token. (There are numerous videos and articles on how to do this). Then, open the bot_settings.txt file and replace "your_token_here" with your bot's token. (OPTIONAL) If you want to change the bot's prefix, you can do it in the same bot_settings file. That's the first line in the file.
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 
-============================
 FOR WINDOWS BASED MACHINES:
 ============================
 
@@ -38,8 +38,8 @@ FOR WINDOWS BASED MACHINES:
 5. Open the "runBot_Windows.exe" file in the folder to run the bot.
 
 6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
+   
 
-==================================
 FOR LINUX/MAC/UNIX BASED MACHINES:
 ==================================
 
@@ -60,17 +60,14 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
 
 
-=================================================================
 
 Troubleshooting:
-
+================
 1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
 2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
 
-=================================================================
-
 Closing Statement:
-
+==================
 This bot is Open-Source. You are free to make any and all modifications to this program as desired. If you have a fix or an improvement that you made, and would like to have it added, let me know.
 
 This bot was made by using existing libraries and modules found on GitHub. Credit for usage of these goes back to their respective owners.
