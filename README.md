@@ -21,35 +21,52 @@ Before starting, create a discord bot, set up its permissions as Admin, and get 
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 
+============================
 FOR WINDOWS BASED MACHINES:
+============================
 
-0) Download the AtomicMusicBot.zip file from GitHub
-1) Extract the AtomicMusicBot folder from the downloaded zip file.
-2) Install Python3 (Make sure to add it to PATH when installing!), and FFMPEG. - Links will be provided in the Dependencies.txt file.
-3) Open the "InstallRequirements.exe" file in the folder to install necessary libraries.
-4) Open the "UpdateRequirements.exe" file in the folder to make sure all requirements are up to date.
-5) Open the "runBot_Windows.exe" file in the folder to run the bot.
-6) Periodically run "UpdateRequirements.exe" to keep dependencies up to date
+0. Download the AtomicMusicBot.zip file from GitHub
 
+1. Extract the AtomicMusicBot folder from the downloaded zip file.
+
+2. Install Python3 (Make sure to add it to PATH when installing!), and FFMPEG. - Links will be provided in the Dependencies.txt file.
+
+3. Open the "InstallRequirements.exe" file in the folder to install necessary libraries.
+
+4. Open the "UpdateRequirements.exe" file in the folder to make sure all requirements are up to date.
+
+5. Open the "runBot_Windows.exe" file in the folder to run the bot.
+
+6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
+
+==================================
 FOR LINUX/MAC/UNIX BASED MACHINES:
+==================================
 
-0) Download the AtomicMusicBot.zip file from GitHub
-1) Extract the AtomicMusicBot folder from the downloaded zip file.
-2) Through the Terminal, CD to the AtomicMusicBot folder.
-3) Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the Bot's dependencies.
-4) Open UpdatePackage.sh through the Terminal by running the command "./UpdatePackage.sh" (without quotes) -- this will update dependencies (if there is an update)
+0. Download the AtomicMusicBot.zip file from GitHub
 
-4.1) (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AtomicMusicBot.py" (without quotes)
-6) Double click the "runBot.sh" file, and select "Run in Terminal".
-7) Periodically run "UpdatePackage.sh" to keep dependencies up to date
+1. Extract the AtomicMusicBot folder from the downloaded zip file.
+
+2. Through the Terminal, CD to the AtomicMusicBot folder.
+
+3. Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the Bot's dependencies.
+
+3.1. (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AtomicMusicBot.py" (without quotes)
+
+4. Open UpdatePackage.sh through the Terminal by running the command "./UpdatePackage.sh" (without quotes) -- this will update dependencies (if there is an update)
+
+5. Double click the "runBot.sh" file, and select "Run in Terminal".
+
+6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
+
 
 =================================================================
 
 Troubleshooting:
 
-1) The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
-2) The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
-   
+1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
+2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
+
 =================================================================
 
 Closing Statement:
