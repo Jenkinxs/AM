@@ -38,9 +38,10 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 2) Through the Terminal, CD to the AtomicMusicBot folder.
 3) Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the Bot's dependencies.
 4) Open UpdatePackage.sh through the Terminal by running the command "./UpdatePackage.sh" (without quotes) -- this will update dependencies (if there is an update)
+
 4.1) (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AtomicMusicBot.py" (without quotes)
-5) Double click the "runBot.sh" file, and select "Run in Terminal".
-6) Periodically run "UpdatePackage.sh" to keep dependencies up to date
+6) Double click the "runBot.sh" file, and select "Run in Terminal".
+7) Periodically run "UpdatePackage.sh" to keep dependencies up to date
 
 =================================================================
 
