@@ -27,7 +27,7 @@ IMPORTANT II: As of Version 2.0.4, no installation is needed for Windows. Simply
 FOR WINDOWS BASED MACHINES:
 ============================
 
-0. Download the AM.zip file from GitHub
+0. Download the AM_Windows.zip file from GitHub
 
 1. Extract the AM folder from the downloaded zip file.
    
