@@ -1,5 +1,4 @@
 AM - a Discord Music Bot from The Atomic Corporation
-================================================
 
 
 This is a Python based music bot that works exclusively with YouTube. The bot's installation process is designed to be seamless and easy to install for Windows, Mac, Linux, or other UNIX based computers.
@@ -14,40 +13,29 @@ You will know if the bot works on your computer or not by looking at your Termin
 
 Important: Make sure you have adequate space for the bot to function!
 
+IMPORTANT II: As of Version 2.0.4, no installation is needed for Windows. Simply download the Windows release, run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
+
+=================================================================
 
 Installation Instructions:
-==========================
 
 Before starting, create a discord bot, set up its permissions as Admin, and get it's token. (There are numerous videos and articles on how to do this). Then, open the bot_settings.txt file and replace "your_token_here" with your bot's token. (OPTIONAL) If you want to change the bot's prefix, you can do it in the same bot_settings file. That's the first line in the file.
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 
-IMPORTANT II: As of Version 2.0.4, no installation is needed for Windows. Simply run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
-
-FOR WINDOWS BASED MACHINES:
-============================
-
-0. Download the AM_Windows.zip file from GitHub
-
-1. Extract the AM folder from the downloaded zip file.
-   
-3. Run "AM.exe"
-
-4. Periodically run "UpdateRequirements.exe" to ensure smooth operation.
-   
-
+==================================
 FOR LINUX/MAC/UNIX BASED MACHINES:
 ==================================
 
-0. Download the AtomicMusicBot.zip file from GitHub
+0. Download the AM.zip file from GitHub
 
-1. Extract the AtomicMusicBot folder from the downloaded zip file.
+1. Extract the AM folder from the downloaded zip file.
 
 2. Through the Terminal, CD to the AtomicMusicBot folder.
 
 3. Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the Bot's dependencies.
 
-3.1. (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AtomicMusicBot.py" (without quotes)
+3.1. (OR) Run the Bot through Terminal directly. -- CD to the folder, and type "python3 AM.py" (without quotes)
 
 4. Open UpdatePackage.sh through the Terminal by running the command "./UpdatePackage.sh" (without quotes) -- this will update dependencies (if there is an update)
 
@@ -56,14 +44,17 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
 
 
+=================================================================
 
 Troubleshooting:
-================
+
 1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
 2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
 
+=================================================================
+
 Closing Statement:
-==================
+
 This bot is Open-Source. You are free to make any and all modifications to this program as desired. If you have a fix or an improvement that you made, and would like to have it added, let me know.
 
 This bot was made by using existing libraries and modules found on GitHub. Credit for usage of these goes back to their respective owners.
