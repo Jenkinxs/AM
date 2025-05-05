@@ -22,10 +22,10 @@ Installation Instructions:
 Before starting, create a discord bot, set up its permissions as Admin, and get it's token. (There are numerous videos and articles on how to do this). Then, open the bot_settings.txt file and replace "your_token_here" with your bot's token. (OPTIONAL) If you want to change the bot's prefix, you can do it in the same bot_settings file. That's the first line in the file.
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
-
+____________________________________________________________________________
 
 FOR LINUX/MAC/UNIX BASED MACHINES:
-
+--------------------------------
 
 0. Download the AM.zip file from GitHub
 
