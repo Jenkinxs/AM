@@ -44,14 +44,14 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
 
 
-=================================================================
+
 
 Troubleshooting:
 --------------
 1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
 2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
 
-=================================================================
+
 
 Closing Statement:
 -----------------
