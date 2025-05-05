@@ -47,14 +47,14 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 
 
 Troubleshooting:
---------------
+================
 1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
 2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
 
 
 
 Closing Statement:
------------------
+================
 This bot is Open-Source. You are free to make any and all modifications to this program as desired. If you have a fix or an improvement that you made, and would like to have it added, let me know.
 
 This bot was made by using existing libraries and modules found on GitHub. Credit for usage of these goes back to their respective owners.
