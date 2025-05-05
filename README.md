@@ -1,5 +1,5 @@
 AM - a Discord Music Bot from The Atomic Corporation
-
+====================================
 
 This is a Python based music bot that works exclusively with YouTube. The bot's installation process is designed to be seamless and easy to install for Windows, Mac, Linux, or other UNIX based computers.
 
