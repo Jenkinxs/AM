@@ -1,4 +1,4 @@
-The AtomicMusicBot for Discord through discord.py
+AM - a Discord Music Bot from The Atomic Corporation
 ================================================
 
 
@@ -22,22 +22,18 @@ Before starting, create a discord bot, set up its permissions as Admin, and get 
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 
+IMPORTANT II: As of Version 2.0.4, no installation is needed for Windows. Simply run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
+
 FOR WINDOWS BASED MACHINES:
 ============================
 
-0. Download the AtomicMusicBot.zip file from GitHub
+0. Download the AM.zip file from GitHub
 
-1. Extract the AtomicMusicBot folder from the downloaded zip file.
+1. Extract the AM folder from the downloaded zip file.
+   
+3. Run "AM.exe"
 
-2. Install Python3 (Make sure to add it to PATH when installing!), and FFMPEG. - Links will be provided in the Dependencies.txt file.
-
-3. Open the "InstallRequirements.exe" file in the folder to install necessary libraries.
-
-4. Open the "UpdateRequirements.exe" file in the folder to make sure all requirements are up to date.
-
-5. Open the "runBot_Windows.exe" file in the folder to run the bot.
-
-6. Periodically run "UpdatePackage.sh" to keep dependencies up to date.
+4. Periodically run "UpdateRequirements.exe" to ensure smooth operation.
    
 
 FOR LINUX/MAC/UNIX BASED MACHINES:
