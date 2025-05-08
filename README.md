@@ -13,7 +13,6 @@ You will know if the bot works on your computer or not by looking at your Termin
 
 Important: Make sure you have adequate space for the bot to function!
 
-IMPORTANT II: As of Version 2.0.4, no installation is needed for Windows. Simply download the Windows release, run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
 
 
 
@@ -22,6 +21,10 @@ Installation Instructions:
 Before starting, create a discord bot, set up its permissions as Admin, and get it's token. (There are numerous videos and articles on how to do this). Then, open the bot_settings.txt file and replace "your_token_here" with your bot's token. (OPTIONAL) If you want to change the bot's prefix, you can do it in the same bot_settings file. That's the first line in the file.
 
 IMPORTANT: Do NOT change the positioning of the information in bot_settings.
+
+FOR WINDOWS MACHINES:
+---------------------
+As of Version 2.0.4, no installation is needed for Windows. Simply download the Windows release, run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
 ____________________________________________________________________________
 
 FOR LINUX/MAC/UNIX BASED MACHINES:
