@@ -13,7 +13,7 @@ You will know if the bot works on your computer or not by looking at your Termin
 
 Important: Make sure you have adequate space for the bot to function!
 
-
+____________________________________________________________________________
 
 
 Installation Instructions:
@@ -25,7 +25,7 @@ IMPORTANT: Do NOT change the positioning of the information in bot_settings.
 FOR WINDOWS MACHINES:
 ---------------------
 As of Version 2.0.4, no installation is needed for Windows. Simply download the Windows release, run the "AM.exe" file, and the "UpdateRequirements.exe" file periodically.
-____________________________________________________________________________
+
 
 FOR LINUX/MAC/UNIX BASED MACHINES:
 --------------------------------
