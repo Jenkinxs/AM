@@ -54,6 +54,7 @@ Troubleshooting:
 1. The bot doesn't play anymore! --> Run either UpdatePackage.sh (for Linux) or UpdateRequirements.exe (for Windows).
 2. The bot STILL doesn't play! --> Wait for an updated version of the bot, re-install the bot, and try again.
 3. I can't get the bot to run! --> Download an older version of the bot (i.e 2.0.3), and try again.
+4. The console opens, but immediately closes! --> Make sure you have your token set.
 
 
 
