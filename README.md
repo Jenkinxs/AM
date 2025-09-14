@@ -1,7 +1,7 @@
 AM - a Discord Music Bot from The Atomic Corporation
 ====================================
 
-This is a Python based music bot that works exclusively with YouTube. The bot's installation process is designed to be seamless and easy to install for Windows, Mac, Linux, or other UNIX based computers.
+This is a Python based music bot that works exclusively with almost every audio link (Including YouTube and Bandcamp!). The bot's installation process is designed to be seamless and easy to install for Windows, Mac, Linux, or other UNIX based computers.
 
 It functions by downloading the video as a .webm file to it's folder, and then plays that .webm file through a voice channel. The file is downloaded contains JUST audio, no video.
 
