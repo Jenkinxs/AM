@@ -6,7 +6,7 @@ import os
 import asyncio
 from pytube import Search
 import random
-
+import platform
 
 print("\n\n")
 print("==================ATOMIC DISCORD BOT - Atomic Incorporated (C) 2025==================")
@@ -17,7 +17,15 @@ PREFIX = ""
 TOKEN = ""
 STATUS = ""
 LOG = "false"
-FILE_DIR = os.path.dirname(os.path.realpath(__file__))
+
+if platform.system() == "Windows":
+    this_script_dir = os.path.dirname(os.path.abspath(__file__))
+    ffmpeg_bin = os.path.join(this_script_dir, 'ffmpeg', 'bin')
+    os.environ['PATH'] += os.pathsep + ffmpeg_bin
+    FILE_DIR = os.path.dirname(os.path.realpath(__file__))
+else:
+    
+    FILE_DIR = os.path.dirname(os.path.realpath(__file__))
 
 #################INITIALIZE BOT#######################
 intents = discord.Intents.default()
