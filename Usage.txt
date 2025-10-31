@@ -1,0 +1,44 @@
+==================ATOMIC DISCORD BOT - Atomic Incorporated (C) 2025==================
+
+
+Bot Commands (assuming prefix is set to !):
+
+
+!play -- Usage: !play URL/Video Name -- Plays a YouTube video.
+
+
+!stop -- Usage: !stop -- Stops playback, deletes the file.
+
+
+!pause -- Usage: !pause -- Pauses playback
+
+
+!skip -- Usage: !skip -- Skips the current track, deletes the file.
+
+
+!seek -- Usage: !seek MM:SS -- Seeks to timestamp in the track.
+
+
+!nowplaying -- Usage: !nowplaying -- Displays track that's currently playing.
+
+
+!queue -- Usage: !queue -- Displays the current queue of tracks.
+
+
+!removeall -- Usage: !removeall -- Clears the playlist queue, and deletes the files downloaded.
+
+
+!join -- Usage: !join -- Joins the same voice channel as user.
+
+
+!leave -- Usage: !leave -- Leaves the voice channel.
+
+
+!smile -- Usage: !smile -- Try it out =).
+
+
+!shutdown -- Usage: !shutdown -- Shuts down the bot, setting it offline.
+
+
+!ping -- Usage !ping -- Sends the current response time between the bot and Discord.
+

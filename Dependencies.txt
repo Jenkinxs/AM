@@ -1,0 +1,6 @@
+==================ATOMIC DISCORD BOT - Atomic Incorporated (C) 2025==================
+
+Here are the links to download the dependencies for Windows.
+
+Python3 : https://www.python.org/downloads/
+FFMPEG : https://www.gyan.dev/ffmpeg/builds/
